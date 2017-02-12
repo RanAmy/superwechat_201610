@@ -15,7 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import cn.ucai.superwechat.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import java.util.Collections;

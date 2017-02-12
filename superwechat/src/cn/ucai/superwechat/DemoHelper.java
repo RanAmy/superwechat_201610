@@ -27,7 +27,7 @@ import com.hyphenate.chat.EMMessage.Status;
 import com.hyphenate.chat.EMMessage.Type;
 import com.hyphenate.chat.EMOptions;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.R;
+import cn.ucai.superwechat.R;
 
 import cn.ucai.superwechat.db.DemoDBManager;
 import cn.ucai.superwechat.db.InviteMessgeDao;

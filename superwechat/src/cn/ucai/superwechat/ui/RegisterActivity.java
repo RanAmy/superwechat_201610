@@ -16,7 +16,7 @@ package cn.ucai.superwechat.ui;
 import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
 import cn.ucai.superwechat.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import cn.ucai.superwechat.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import android.app.ProgressDialog;

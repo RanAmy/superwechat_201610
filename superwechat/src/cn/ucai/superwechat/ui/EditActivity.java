@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.hyphenate.chatuidemo.R;
+import cn.ucai.superwechat.R;
 
 public class EditActivity extends BaseActivity{
 	private EditText editText;

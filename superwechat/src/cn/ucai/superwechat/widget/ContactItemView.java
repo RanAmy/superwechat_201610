@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.hyphenate.chatuidemo.R;
+import cn.ucai.superwechat.R;
 
 public class ContactItemView extends LinearLayout{
 
