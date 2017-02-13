@@ -9,15 +9,201 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02ce1d59-018b-4cfb-b2c5-96a2816c6d2a" name="Default" comment="添加跳转的工具类--MFGT">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/view_layout_title.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-w820dp/dimens.xml" afterPath="" />
+    <list default="true" id="02ce1d59-018b-4cfb-b2c5-96a2816c6d2a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/afr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aii.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aj2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aj5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/auj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aul.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/aun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/auo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/bg_card.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/contact_list_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/contact_list_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/default_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/default_hd_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/find_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/find_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_instagram_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_sex_female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_sex_male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_addfriend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_btn_creat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_btn_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_btn_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_btn_register.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_game.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_nearby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_ping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_saoyisao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_shop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_de_yao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_groupinfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_collect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_me_smail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_menu_addfriend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_menu_group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_menu_money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_menu_sao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_public.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_qunliao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon_titleaddfriend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/img_toolbar_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/popmenu_bg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/profile_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/profile_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/search_ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/search_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/server_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/v2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/weixin_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/weixin_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/wo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/wp.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/zx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-nodpi/default_nor_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/chat_tool_audio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/chat_tool_send_file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/chat_tool_video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_actionbar_camera_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_camera_switch_normal.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_camera_switch_pressed.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_default_avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_empty_photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_mm_title_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_msg_state_fail_resend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_roominfo_add_btn_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_roominfo_add_btn_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_seabar_input.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_video_recorder_start_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/em_video_recorder_stop_btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/gr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_002.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_002_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_007.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_007_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_010.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_010_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_012.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_012_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_013.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_013_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_018.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_018_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_019.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_019_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_020.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_020_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_021.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_021_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_022.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_022_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_024.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_024_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_027.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_027_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_029.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_029_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_030.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_030_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_035.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_035_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_040.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_040_cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_head_addfriend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_head_group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/icon_head_public.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/img_splach.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/user_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/Group.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/Locationner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/head_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/head_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_bottom_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_bottom_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_left_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_left_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_right_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_right_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_up_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/push_up_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/color/tab_def_title_color_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/btn_bg_gray.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/btn_bg_green.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/btn_enable_green.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/edittext_login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/fab_background.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/progressbar_drawable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/setting_item_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tab_contact_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tab_find.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tab_profile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tab_weixin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tip_round_red_bg_shape.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/titlepop_item_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout-hdpi/main_tab_text_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_dicover.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/layout_item_pop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main_tab_bottom_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/view_title_popup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/attrs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/loading_arrt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/loading_color.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/loading_styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/swipe_fling_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/zx_colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/zx_ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/domain/Result.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/net/NetDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/net/OnCompleteListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/MD5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/ResultUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/EaseUI.iml" afterPath="$PROJECT_DIR$/../easeui/EaseUI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/em_activity_register.xml" afterPath="$PROJECT_DIR$/res/layout/em_activity_register.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/GuideActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/GuideActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" afterPath="$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/MFGT.java" afterPath="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/MFGT.java" />
     </list>
     <ignored path="superwechat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,37 +236,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state relative-caret-position="595">
+              <caret line="458" column="46" selection-start-line="458" selection-start-column="46" selection-end-line="458" selection-end-column="46" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SplashActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuideActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/GuideActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -88,20 +252,99 @@
       <file leaf-file-name="RegisterActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1920">
-              <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+            <state relative-caret-position="-450">
+              <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
               <folding>
-                <element signature="e#2150#2210#0" expanded="true" />
-                <element signature="e#2377#2436#0" expanded="true" />
-                <element signature="e#2611#2678#0" expanded="true" />
-                <element signature="e#2854#2907#0" expanded="true" />
-                <element signature="e#3231#5763#0" expanded="true" />
-                <element signature="e#3471#4064#0" expanded="true" />
-                <element signature="e#4063#4064#0" expanded="true" />
-                <element signature="e#4164#5707#0" expanded="true" />
-                <element signature="e#5706#5707#0" expanded="true" />
-                <element signature="e#5762#5763#0" expanded="true" />
+                <element signature="e#2634#2694#0" expanded="true" />
+                <element signature="e#2861#2920#0" expanded="true" />
+                <element signature="e#3095#3162#0" expanded="true" />
+                <element signature="e#3338#3391#0" expanded="true" />
+                <element signature="e#4523#4551#0" expanded="true" />
+                <element signature="e#4650#4678#0" expanded="true" />
+                <element signature="e#4855#4883#0" expanded="true" />
+                <element signature="e#5014#5042#0" expanded="true" />
+                <element signature="e#5221#5249#0" expanded="true" />
+                <element signature="e#5387#7848#0" expanded="true" />
+                <element signature="e#5607#6164#0" expanded="true" />
+                <element signature="e#5991#6049#0" expanded="true" />
+                <element signature="e#6163#6164#0" expanded="true" />
+                <element signature="e#6329#7804#0" expanded="true" />
+                <element signature="e#6710#6762#0" expanded="true" />
+                <element signature="e#6946#7000#0" expanded="true" />
+                <element signature="e#7192#7265#0" expanded="true" />
+                <element signature="e#7452#7504#0" expanded="true" />
+                <element signature="e#7643#7697#0" expanded="true" />
+                <element signature="e#7803#7804#0" expanded="true" />
+                <element signature="e#7847#7848#0" expanded="true" />
+                <element signature="e#8055#8056#0" expanded="true" />
+                <element signature="e#8115#8116#0" expanded="true" />
+                <element signature="e#8186#8187#0" expanded="true" />
+                <element signature="e#8244#8245#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/utils/ResultUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EaseCommonUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-666">
+              <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/net/NetDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="954">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnCompleteListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/net/OnCompleteListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,8 +397,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="ASClass" />
         <option value="layoutResourceFile_vertical" />
+        <option value="ASClass" />
       </list>
     </option>
   </component>
@@ -1490,11 +1733,6 @@
                 <option name="name" value="mergeDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:23.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42301Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="clean" />
@@ -2187,7 +2425,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="E:\ws_1017\superwechat\superwechat" value="5936005097316" />
+        <entry key="E:\ws_1017\superwechat\superwechat" value="5936016351290" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2613,12 +2851,16 @@
         <option value="$PROJECT_DIR$/res/layout/activity_guide.xml" />
         <option value="$PROJECT_DIR$/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/GuideActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java" />
         <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/MFGT.java" />
         <option value="$PROJECT_DIR$/res/layout/view_layout_title.xml" />
         <option value="$PROJECT_DIR$/res/layout/em_activity_register.xml" />
+        <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/utils/ResultUtils.java" />
+        <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/net/NetDao.java" />
         <option value="$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
@@ -2640,7 +2882,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2656,52 +2898,7 @@
     <panes>
       <pane id="Scratches" />
       <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superwechat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -2727,7 +2924,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="easeui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="superwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easeui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2735,7 +2942,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="easeui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="superwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easeui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easeui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2752,7 +2981,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="zr" />
+    <property name="device.picker.selection" value="QONBKNTKRWI7LRON" />
     <property name="android.project.structure.last.selected" value="superwechat" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
@@ -2762,7 +2991,10 @@
       <recent name="cn.ucai.superwechat.ui" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ws_1017\superwechat\easeui\src\com\hyphenate\easeui\domain" />
+      <recent name="E:\ws_1017\superwechat\superwechat\src\cn\ucai\superwechat\domain" />
       <recent name="E:\ws_1017\superwechat\superwechat\src\cn\ucai\superwechat\utils" />
+      <recent name="E:\ws_1017\superwechat\superwechat\src\cn\ucai\superwechat\net" />
       <recent name="E:\ws_1017\superwechat\superwechat\src\cn\ucai\superwechat" />
     </key>
   </component>
@@ -3129,7 +3361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1486982670409</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改注册的布局">
+      <created>1486982827286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1486982827286</updated>
+    </task>
+    <task id="LOCAL-00009" summary="设置环信应用的appkey">
+      <created>1486983516324</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1486983516324</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -3199,66 +3445,17 @@
     <MESSAGE value="添加跳转的工具类--MFGT" />
     <MESSAGE value="修改应用程序的主题" />
     <MESSAGE value="添加工具类以及依赖" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加工具类以及依赖" />
+    <MESSAGE value="修改注册的布局" />
+    <MESSAGE value="设置环信应用的appkey" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置环信应用的appkey" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../easeui/src/cn/ucai/easeui/adapter/EaseContactAdapter.java" />
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redpacketlibrary/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#617#0" expanded="false" />
-            <element signature="e#3004#3005#0" expanded="false" />
-            <element signature="e#3041#3042#0" expanded="false" />
-            <element signature="e#8445#8446#0" expanded="false" />
-            <element signature="e#8468#8469#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/adapter/ChatRoomAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -3552,14 +3749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/view_title_popup.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3610,25 +3799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
-          <folding>
-            <element signature="e#2150#2210#0" expanded="true" />
-            <element signature="e#2377#2436#0" expanded="true" />
-            <element signature="e#2611#2678#0" expanded="true" />
-            <element signature="e#2854#2907#0" expanded="true" />
-            <element signature="e#3231#5763#0" expanded="true" />
-            <element signature="e#3471#4064#0" expanded="true" />
-            <element signature="e#4063#4064#0" expanded="true" />
-            <element signature="e#4164#5707#0" expanded="true" />
-            <element signature="e#5706#5707#0" expanded="true" />
-            <element signature="e#5762#5763#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/I.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -3653,14 +3823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/utils/OkHttpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -3669,9 +3831,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/utils/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/GuideActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="474">
           <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3684,8 +3862,102 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        <state relative-caret-position="595">
+          <caret line="458" column="46" selection-start-line="458" selection-start-column="46" selection-end-line="458" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/ui/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
+          <folding>
+            <element signature="e#2634#2694#0" expanded="true" />
+            <element signature="e#2861#2920#0" expanded="true" />
+            <element signature="e#3095#3162#0" expanded="true" />
+            <element signature="e#3338#3391#0" expanded="true" />
+            <element signature="e#4523#4551#0" expanded="true" />
+            <element signature="e#4650#4678#0" expanded="true" />
+            <element signature="e#4855#4883#0" expanded="true" />
+            <element signature="e#5014#5042#0" expanded="true" />
+            <element signature="e#5221#5249#0" expanded="true" />
+            <element signature="e#5387#7848#0" expanded="true" />
+            <element signature="e#5607#6164#0" expanded="true" />
+            <element signature="e#5991#6049#0" expanded="true" />
+            <element signature="e#6163#6164#0" expanded="true" />
+            <element signature="e#6329#7804#0" expanded="true" />
+            <element signature="e#6710#6762#0" expanded="true" />
+            <element signature="e#6946#7000#0" expanded="true" />
+            <element signature="e#7192#7265#0" expanded="true" />
+            <element signature="e#7452#7504#0" expanded="true" />
+            <element signature="e#7643#7697#0" expanded="true" />
+            <element signature="e#7803#7804#0" expanded="true" />
+            <element signature="e#7847#7848#0" expanded="true" />
+            <element signature="e#8055#8056#0" expanded="true" />
+            <element signature="e#8115#8116#0" expanded="true" />
+            <element signature="e#8186#8187#0" expanded="true" />
+            <element signature="e#8244#8245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/net/NetDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/net/OnCompleteListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="124" column="56" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ucai/superwechat/utils/ResultUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
           <folding />
         </state>
       </provider>
