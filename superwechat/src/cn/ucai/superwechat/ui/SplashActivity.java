@@ -56,7 +56,7 @@ public class SplashActivity extends BaseActivity {
 						Thread.sleep(sleepTime);
 					} catch (InterruptedException e) {
 					}
-					startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+					startActivity(new Intent(SplashActivity.this, GuideActivity.class)); //  闪屏界面跳转到欢迎界面
 					finish();
 				}
 			}

@@ -46,6 +46,8 @@
 
     <uses-permission android:name="cn.ucai.superwechat.permission.MIPUSH_RECEIVE" />
 
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:name=".SuperWeChatApplication"
         android:allowBackup="true"
@@ -270,9 +272,6 @@
             android:name=".ui.OfflinePushSettingsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide" />
-
-
-
         <activity
             android:name=".ui.CallOptionActivity"
             android:screenOrientation="portrait"
@@ -497,6 +496,7 @@
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="3ecea51f560650b1ed8a4b99808f52e8" />
 
+        <activity android:name=".ui.GuideActivity"></activity>
     </application>
 
 </manifest>
