@@ -448,7 +448,7 @@ public class SuperWeChatDBManager {
     synchronized public void saveAppContact(User user){
         SQLiteDatabase db = dbHelper.getWritableDatabase();
         ContentValues values = new ContentValues();
-        values.put(UserDao.USER_TABLE_NAME, user.getMUserName());
+        values.put(UserDao.USER_COLUMN_NAME, user.getMUserName());
         if(user.getMUserNick() != null)
             values.put(UserDao.USER_COLUMN_NAME_NICK, user.getMUserNick());
         if(user.getMAvatarId() != null)
