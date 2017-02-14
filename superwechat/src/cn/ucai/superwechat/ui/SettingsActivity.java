@@ -21,6 +21,7 @@ import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -274,15 +275,13 @@ public class SettingsActivity extends BaseActivity implements OnClickListener {
         imgBack.setVisibility(View.VISIBLE);
         txtTitle.setVisibility(View.VISIBLE);
         txtTitle.setText(R.string.set);
+        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);  //  不让键盘自动弹出
     }
 
 
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.img_back:
-                MFGT.finish(this);
-                break;
             case R.id.rl_switch_notification:
                 if (notifySwitch.isSwitchOpen()) {
                     notifySwitch.closeSwitch();
@@ -461,5 +460,10 @@ public class SettingsActivity extends BaseActivity implements OnClickListener {
                 });
             }
         });
+    }
+
+    @OnClick(R.id.img_back)
+    public void onClick() {
+        MFGT.finish(this);
     }
 }
