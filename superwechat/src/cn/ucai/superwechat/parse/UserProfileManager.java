@@ -20,9 +20,9 @@ import com.hyphenate.easeui.domain.User;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.huawei.android.pushselfshow.richpush.html.HtmlViewer.TAG;
 
 public class UserProfileManager {
+	private static final String TAG = UserProfileManager.class.getSimpleName();
 
 	/**
 	 * application context
@@ -155,6 +155,7 @@ public class UserProfileManager {
 
 			@Override
 			public void onSuccess(EaseUser value) {
+				L.e(TAG,"asyncGetCurrentUserInfo.value"+value);
 			    if(value != null){
     				setCurrentUserNick(value.getNick());
     				setCurrentUserAvatar(value.getAvatar());
@@ -174,7 +175,10 @@ public class UserProfileManager {
 				if (s!=null){
 					Result result = ResultUtils.getResultFromJson(s, User.class);
 					if (result!=null && result.isRetMsg()){
-
+						User user = (User) result.getRetData();
+						// save user info to db
+						setCurrentUserNick(user.getMUserNick());
+//						setCurrentUserAvatar(user.getAvatar());
 					}
 				}
 			}
