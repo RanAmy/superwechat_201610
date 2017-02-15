@@ -209,7 +209,6 @@ public class MainActivity extends BaseActivity implements DMTabHost.OnCheckedCha
      */
     private void initView() {
 //		unreadLabel = (TextView) findViewById(R.id.unread_msg_number);
-//		unreadAddressLable = (TextView) findViewById(R.id.unread_address_number);
 //		mTabs = new Button[3];
 //		mTabs[0] = (Button) findViewById(R.id.btn_conversation);
 //		mTabs[1] = (Button) findViewById(R.id.btn_address_list);
@@ -465,16 +464,19 @@ public class MainActivity extends BaseActivity implements DMTabHost.OnCheckedCha
      * update the total unread count
      */
     public void updateUnreadAddressLable() {
-//		runOnUiThread(new Runnable() {
-//			public void run() {
-//				int count = getUnreadAddressCountTotal();
-//				if (count > 0) {
-//					unreadAddressLable.setVisibility(View.VISIBLE);
-//				} else {
-//					unreadAddressLable.setVisibility(View.INVISIBLE);
-//				}
-//			}
-//		});
+        runOnUiThread(new Runnable() {
+            public void run() {
+                int count = getUnreadAddressCountTotal();
+                L.e(TAG, "updateUnreadAddressLable,count=" + count);
+                if (count > 1) {
+                    layoutTabhost.setUnreadCount(1, count);
+                } else if (count == 1) {
+                    layoutTabhost.setHasNew(1, true);
+                } else {
+                    layoutTabhost.setHasNew(1, false);
+                }
+            }
+        });
 
     }
 
