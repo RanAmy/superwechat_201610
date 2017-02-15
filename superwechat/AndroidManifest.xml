@@ -45,7 +45,6 @@
         android:protectionLevel="signatureOrSystem" />
 
     <uses-permission android:name="cn.ucai.superwechat.permission.MIPUSH_RECEIVE" />
-
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
@@ -502,12 +501,18 @@
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="3ecea51f560650b1ed8a4b99808f52e8" />
 
-        <activity android:name=".ui.GuideActivity"></activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
-     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
-        <activity android:name=".ui.FirentProfileActivity"></activity>
+        <activity android:name=".ui.GuideActivity" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <activity android:name=".ui.FirentProfileActivity" />
+
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".ui.AddFirentActivity"></activity>
     </application>
 
 </manifest>
