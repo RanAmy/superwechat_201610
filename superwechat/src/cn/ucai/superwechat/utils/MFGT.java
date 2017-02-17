@@ -93,4 +93,5 @@ public class MFGT {
         startActivity(activity, new Intent(activity, MainActivity.class)
                 .putExtra(I.BACK_MAIN_FROM_CHAT, true));
     }
+
 }
