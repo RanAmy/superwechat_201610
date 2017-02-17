@@ -78,8 +78,8 @@ public class User implements Serializable {
 		this.mavatarType = mavatarType;
 	}
 
-	public String getMAvatarLastUpdateTime() {
-		return mavatarLastUpdateTime;
+	public String getMAvatarLastUpdateTime() {   //  长类型
+		return mavatarLastUpdateTime == null ? String.valueOf(System.currentTimeMillis()) : mavatarLastUpdateTime;
 	}
 
 	public void setMAvatarLastUpdateTime(String mavatarLastUpdateTime) {
