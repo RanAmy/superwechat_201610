@@ -1,5 +1,6 @@
 package cn.ucai.superwechat.ui;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -27,7 +28,7 @@ import cn.ucai.superwechat.utils.ResultUtils;
 /**
  * Created by Administrator on 2017/2/15 0015.
  */
-public class FirentProfileActivity extends BaseActivity  {
+public class FirentProfileActivity extends BaseActivity {
     private static final String TAG = FirentProfileActivity.class.getSimpleName();
 
     @BindView(R.id.img_back)
@@ -81,12 +82,12 @@ public class FirentProfileActivity extends BaseActivity  {
         NetDao.getUserInfoByUsername(this, username, new OnCompleteListener<String>() {
             @Override
             public void onSuccess(String s) {
-                if (s!=null){
+                if (s != null) {
                     Result result = ResultUtils.getResultFromJson(s, User.class);
-                    if (result!=null){
-                        if (result.isRetMsg()){
+                    if (result != null) {
+                        if (result.isRetMsg()) {
                             User u = (User) result.getRetData();
-                            if (u!=null){
+                            if (u != null) {
                                 user = u;
                                 showUserInfo();
                             }
@@ -114,11 +115,11 @@ public class FirentProfileActivity extends BaseActivity  {
         }
     }
 
-    private boolean isFirent(){
+    private boolean isFirent() {
         User u = SuperWeChatHelper.getInstance().getAppContactList().get(user.getMUserName());
-        if (u==null){
+        if (u == null) {
             return false;
-        }else{
+        } else {
             SuperWeChatHelper.getInstance().saveAppContact(user);
             return true;
         }
@@ -131,11 +132,19 @@ public class FirentProfileActivity extends BaseActivity  {
 
     @OnClick(R.id.btn_add_contact)
     public void sendAddContactMsg() {
-        MFGT.gotoAddFirent(this,user.getMUserName());
+        MFGT.gotoAddFirent(this, user.getMUserName());
     }
 
     @OnClick(R.id.btn_send_msg)
     public void sendMsg() {
         MFGT.gotoChat(this, user.getMUserName());
     }
+
+    @OnClick(R.id.btn_send_video)
+    public void sendVideo() {
+        startActivity(new Intent(this,VoiceCallActivity.class)
+                        .putExtra("username",user.getMUserName())
+                        .putExtra("isComingCall",false));
+    }
 }
+
