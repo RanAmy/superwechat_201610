@@ -18,6 +18,7 @@ import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -26,10 +27,13 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.chat.EMGroupInfo;
 import cn.ucai.superwechat.R;
+
+import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.exceptions.HyphenateException;
 
 public class GroupSimpleDetailActivity extends BaseActivity {
 	private Button btn_add_group;
+	private ImageView iv_avatar;
 	private TextView tv_admin;
 	private TextView tv_name;
 	private TextView tv_introduction;
@@ -41,6 +45,7 @@ public class GroupSimpleDetailActivity extends BaseActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.em_activity_group_simle_details);
+		iv_avatar = (ImageView) findViewById(R.id.avatar);
 		tv_name = (TextView) findViewById(R.id.name);
 		tv_admin = (TextView) findViewById(R.id.tv_admin);
 		btn_add_group = (Button) findViewById(R.id.btn_add_to_group);
@@ -61,7 +66,7 @@ public class GroupSimpleDetailActivity extends BaseActivity {
 		}
 		
 		tv_name.setText(groupname);
-		
+		EaseUserUtils.setAppGroupAvatar(GroupSimpleDetailActivity.this,groupid,iv_avatar);
 		
 		if(group != null){
 		    showGroupDetail();
